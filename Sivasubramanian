@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>JAYAKUMAR Portfolio</title>
+  <title>SIVASUBRAMANIAN Portfolio</title>
   <style>
     * {
       margin: 0;
@@ -200,10 +200,10 @@
   <button class="dark-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
   <img src="./jayakumar.jpg.jpg" alt="Profile Picture" class="profile-picture" id="profileImage" style="margin: 0 1rem 0 0; align-self: flex-start;">
   <div style="text-align: left;">
-    <h1>K. JAYAKUMAR MCA., M.Phil</h1>
+    <h1>SIVASUBRAMANIAN</h1>
     
   </div>
-  <p>Assistant Professor | Deprtment Of Computer Science</p>
+  <p>STUDENT | Deprtment Of Computer Science</p>
   <input type="file" id="fileInput" accept="image/*" style="display:none">
   <button onclick="showModal()">Change Profile</button>
 </header>
@@ -227,8 +227,6 @@
 <section id="education">
   <h2>Education</h2>
   <p>Madras University – BCA</p>
-  <p>Madras University – MCA</p>
-  <p>Madras University – M.Phil</p>
 </section>
 
 <section id="skills">
@@ -264,8 +262,8 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: <a href="jaikande1997@gmail.com">jaikande1997@gmail.com</a></p>
-  <p>Phone: +91-9025276368</p>
+  <p>Email: <a href="sivamm2301@gmail.com">sivamm2301@gmail.com</a></p>
+  <p>Phone: +91-9952148713</p>
   <p>Location: Chennai, India</p>
   <div style="margin-top: 1rem;">
     <a href="https://linkedin.com/in/vignesh" target="_blank">LinkedIn</a> |
@@ -302,12 +300,12 @@
 <section id="experience">
   <h2>Experience</h2>
   <ul>
-    <li><b>UNIVERSITY OF MADRAS IN 3YEARS OF EXPERIENCE</b> </li>
+    <li><b>UNIVERSITY OF MADRAS </b> </li>
   </ul>
 </section>
 
 <footer>
-  <p>&copy; 2025 JAYAKUMAR . All rights reserved.</p>
+  <p>&copy; 2025 SIVASUBRAMANIAN . All rights reserved.</p>
 </footer>
 
 <div class="modal" id="passwordModal">
